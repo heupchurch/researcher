@@ -31,7 +31,7 @@ A reverse search in the county GIS database turns up nineteen properties owned b
 
 The derelict factory ((37.403988, -79.1068205) across the street from Ulfheim is still owned by Volk as of the date of publication. It features regularly on Wolves of Vinland social media, serving as the backdrop for photoshoots for Operation Werewolf and Project Shewolf, and often appears in the personal photos of the Waggeners and Jack Donovan.
 
-![Paul Waggener's bike in the factory.](..assets/images/werewolves-lynchburg/paul_bike_factory.png)
+![Paul Waggener's bike in the factory.](../assets/images/werewolves-lynchburg/paul_bike_factory.png)
 Paul Waggener's bike in the factory.
 
 ![The Waggener brothers at the factory.](../assets/images/werewolves-lynchburg/waggeners_factory.png)
