@@ -44,7 +44,7 @@ Jack Donovan posing in the factory.
 At one time Paul had a motorcycle workshop in the northeast corner of the factory.
 
 :-------------------------:|:-------------------------:
-![](..//Users/hannahupchurch/Documents/GitHub/heupchurch.github.io/assets/images/werewolves-lynchburg/paul_factory_2.jpg)|![](../assets/images/werewolves-lynchburg/gantry_highlighted.png)
+![](../assets/images/werewolves-lynchburg/paul_factory_2.jpg)|![](../assets/images/werewolves-lynchburg/gantry_highlighted.png)
 |The tree and the fallen gantry.|The gantry on satellite imagery in 2011 before its fall.
 
 Prior to purchase by Volk LLC in 2008, the factory was owned by Kavanaugh Industries.  Kavanaugh Industries lacks an online footprint. One reference to the company appears in an obituary for a Frank Ward, who died in 2011: Mr Ward worked for Kavanaugh after the Manhattan Project and a career at the Atomic Energy Comission, so it is possible that the factory produced something related to nuclear power generation, which is an important industry in Lynchburg. An undated community development document put out by the City of Lynchburg suggests that the parcel may be turned into a recycling plant.  
