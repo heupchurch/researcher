@@ -50,7 +50,7 @@ The tree and the fallen gantry.|The gantry on satellite imagery in 2011 before i
 Prior to purchase by Volk LLC in 2008, the factory was owned by Kavanaugh Industries.  Kavanaugh Industries lacks an online footprint. One reference to the company appears in an obituary for a Frank Ward, who died in 2011: Mr Ward worked for Kavanaugh after the Manhattan Project and a career at the Atomic Energy Comission, so it is possible that the factory produced something related to nuclear power generation, which is an important industry in Lynchburg. An undated community development document put out by the City of Lynchburg suggests that the parcel may be turned into a recycling plant.  
 
 The Wolves' long-term intentions for the property are unclear, but the site has been continuously altered since Volk purchased the property in 2008. 2007 imagery, captured before Volk LLC purchased the property, shows two buildings, a gantry crane (orange), and a few tanks for liquid storage (purple).
-![](..assets/images/werewolves-lynchburg/jan_2007.png)
+![](../assets/images/werewolves-lynchburg/jan_2007.png)
 
 January 2011 imagery shows the tanks have disappeared, the smaller building has been reduced to a concrete pad, and holes have appeared in the roof of the larger building.
 ![](../assets/images/werewolves-lynchburg/jan_2011.png)
