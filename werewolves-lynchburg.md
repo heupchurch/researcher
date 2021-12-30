@@ -19,7 +19,7 @@ Back in the mists of time when Paul Waggener's old Myspace account, vikingnight,
 
 The fun thing about this building, from the perspective of a geospatial nosy parker, is the bright green roof, which was very easy to see on Google Earth.
 
-![(37.4000556 -79.1068554)](..assets/images/werewolves-lynchburg/geolocation.png)
+![(37.4000556 -79.1068554)](..assets/images/werewolves-lynchburg/geolocation.jpg)
 
 Ulfheim is located at 200 Kavanaugh Road, Lynchburg, VA (37.4000556 -79.1068554).  The outbuilding seen in the Lupine Equinox Conclave photos is clearly visible on recent Google Earth imagery to the southwest of the longhouse.  Lynchburg County property records show that, in the grandest neo-Nazi tradition giving ostensibly deniable LLCs extremely unsubtle names, the parcel at 200 Kavanaugh Road was originally purchased in 2008 for $18,800 by Volk LLC, registered to one Ben Jonas.  It was transferred to Paul Waggener for $16,000 in March 2020.
 
