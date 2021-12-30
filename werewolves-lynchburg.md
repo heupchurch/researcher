@@ -37,7 +37,7 @@ Paul Waggener's bike in the factory.
 ![The Waggener brothers at the factory.](../assets/images/werewolves-lynchburg/waggeners_factory.png)
 The Waggener brothers at the factory.
 
-![Jack Donovan posing in the factory.](assets/images/werewolves-lynchburg/jack_factory.jpg)
+![Jack Donovan posing in the factory.](../assets/images/werewolves-lynchburg/jack_factory.jpg)
 Jack Donovan posing in the factory.
 
 ![At one time Paul had a motorcycle workshop in the northeast corner of the factory.](../assets/images/werewolves-lynchburg/paul_factory_1.png)
@@ -45,7 +45,7 @@ At one time Paul had a motorcycle workshop in the northeast corner of the factor
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/werewolves-lynchburg/paul_factory_2.jpg)|![](../assets/images/werewolves-lynchburg/gantry_highlighted.png)
-|The tree and the fallen gantry.|The gantry on satellite imagery in 2011 before its fall.
+The tree and the fallen gantry.|The gantry on satellite imagery in 2011 before its fall.
 
 Prior to purchase by Volk LLC in 2008, the factory was owned by Kavanaugh Industries.  Kavanaugh Industries lacks an online footprint. One reference to the company appears in an obituary for a Frank Ward, who died in 2011: Mr Ward worked for Kavanaugh after the Manhattan Project and a career at the Atomic Energy Comission, so it is possible that the factory produced something related to nuclear power generation, which is an important industry in Lynchburg. An undated community development document put out by the City of Lynchburg suggests that the parcel may be turned into a recycling plant.  
 
