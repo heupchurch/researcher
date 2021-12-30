@@ -19,7 +19,7 @@ Back in the mists of time when Paul Waggener's old Myspace account, vikingnight,
 
 The fun thing about this building, from the perspective of a geospatial nosy parker, is the bright green roof, which was very easy to see on Google Earth.
 
-![(37.4000556 -79.1068554)](..assets/images/werewolves-lynchburg/geolocation.jpg)
+![(37.4000556 -79.1068554)](../assets/images/werewolves-lynchburg/geolocation.jpg)
 
 Ulfheim is located at 200 Kavanaugh Road, Lynchburg, VA (37.4000556 -79.1068554).  The outbuilding seen in the Lupine Equinox Conclave photos is clearly visible on recent Google Earth imagery to the southwest of the longhouse.  Lynchburg County property records show that, in the grandest neo-Nazi tradition giving ostensibly deniable LLCs extremely unsubtle names, the parcel at 200 Kavanaugh Road was originally purchased in 2008 for $18,800 by Volk LLC, registered to one Ben Jonas.  It was transferred to Paul Waggener for $16,000 in March 2020.
 
@@ -31,7 +31,7 @@ A reverse search in the county GIS database turns up nineteen properties owned b
 
 The derelict factory ((37.403988, -79.1068205) across the street from Ulfheim is still owned by Volk as of the date of publication. It features regularly on Wolves of Vinland social media, serving as the backdrop for photoshoots for Operation Werewolf and Project Shewolf, and often appears in the personal photos of the Waggeners and Jack Donovan.
 
-![Paul Waggener's bike in the factory.](assets/images/assets/images/werewolves-lynchburg/paul_bike_factory.png)
+![Paul Waggener's bike in the factory.](..assets/images/werewolves-lynchburg/paul_bike_factory.png)
 Paul Waggener's bike in the factory.
 
 ![The Waggener brothers at the factory.](../assets/images/werewolves-lynchburg/waggeners_factory.png)
@@ -40,7 +40,7 @@ The Waggener brothers at the factory.
 ![Jack Donovan posing in the factory.](assets/images/werewolves-lynchburg/jack_factory.jpg)
 Jack Donovan posing in the factory.
 
-![At one time Paul had a motorcycle workshop in the northeast corner of the factory.](..assets/images/werewolves-lynchburg/paul_factory_1.png)
+![At one time Paul had a motorcycle workshop in the northeast corner of the factory.](../assets/images/werewolves-lynchburg/paul_factory_1.png)
 At one time Paul had a motorcycle workshop in the northeast corner of the factory.
 
 :-------------------------:|:-------------------------:
